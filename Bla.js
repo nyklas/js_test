@@ -1,10 +1,10 @@
 var i = 2.7
-/*
+
 do {
   console.log("hello")
   i++
 } while (i < 10)
-*/
+
 switch (i) {
   case 3:
     console.log("i = 3")
